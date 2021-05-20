@@ -1,2 +1,2 @@
-# Unity_FirstWebGL
- Unity_FirstWebGL, Test BoardGameAssistant
+# Unity_BGAWeb
+ Unity_BGAWeb, Test BoardGameAssistant to HTML5, WebGL
